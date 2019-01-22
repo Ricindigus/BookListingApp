@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="action_search">buscar</string>
+    <string name="emptyview">No hay resultados para mostrar. Realice una búsqueda</string>
+</resources>
